@@ -1,0 +1,1 @@
+This is a clone of the [Jupyter notebook powering this kernel](https://www.kaggle.com/thekevinscott/experimenting-with-image-preparation-techniques) on Kaggle. It's purpose is to explore additional image pre-processing techniques.
